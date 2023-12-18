@@ -1,0 +1,18 @@
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\bin\Debug\Jennilyn Grace and Shane Marie Sol final project.exe.config
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\bin\Debug\Jennilyn Grace and Shane Marie Sol final project.exe
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\bin\Debug\Jennilyn Grace and Shane Marie Sol final project.pdb
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn Grace and Shane Marie Sol final project.csproj.AssemblyReference.cache
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn Grace and Shane Marie Sol final project.csproj.SuggestedBindingRedirects.cache
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn_Grace_and_Shane_Marie_Sol_final_project.Form1.resources
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn_Grace_and_Shane_Marie_Sol_final_project.Properties.Resources.resources
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn Grace and Shane Marie Sol final project.csproj.GenerateResource.cache
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn Grace and Shane Marie Sol final project.csproj.CoreCompileInputs.cache
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn Grace and Shane Marie Sol final project.exe
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn Grace and Shane Marie Sol final project.pdb
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn_Grace_and_Shane_Marie_Sol_final_project.Form2.resources
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn_Grace_and_Shane_Marie_Sol_final_project.Form3.resources
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn_Grace_and_Shane_Marie_Sol_final_project.Form4.resources
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn_Grace_and_Shane_Marie_Sol_final_project.Form5.resources
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn_Grace_and_Shane_Marie_Sol_final_project.Form6.resources
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn_Grace_and_Shane_Marie_Sol_final_project.Form7.resources
+C:\Users\genes\source\repos\Jennilyn Grace and Shane Marie Sol final project\Jennilyn Grace and Shane Marie Sol final project\obj\Debug\Jennilyn_Grace_and_Shane_Marie_Sol_final_project.Form8.resources
